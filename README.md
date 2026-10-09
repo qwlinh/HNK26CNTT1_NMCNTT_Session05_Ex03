@@ -11,7 +11,7 @@ PROCESS:
 
 
 OUTPUT: 
-- Cấu trúc cây thư mục smart-farm\data\logs và smart-farm\code được thiết lập chuẩn xác.
+- Cấu trúc cây thư mục smart-farm\data\logs và smart-farm\code được thiết lập chuẩn xác. 
 - Các file config.json, sensors.py, và .env ẩn được khởi tạo hoàn tất bên trong thư mục code.
 - Thư mục backup\code_v1 chứa toàn bộ bản sao được đồng bộ an toàn.
 
